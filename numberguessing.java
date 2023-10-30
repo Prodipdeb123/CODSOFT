@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.util.Scanner;
 
-public class NumberGame{
+public class numberguessing{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int chances = 10;
